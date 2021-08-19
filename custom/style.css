@@ -1,0 +1,129 @@
+.vertical {
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.ims-bg-img {
+    background-image: url("pharma.jpg");
+    background-size: cover;
+  }
+
+  .middle {
+    width: 100%;
+  }
+  .counting-sec {
+    width: 100%;
+    background: linear-gradient(90deg,#3c6382, #82ccdd);
+  }
+  .inner-width{
+    margin: auto;
+    display: flex;
+  }
+  .cl{
+    flex: 1;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  .cl i{
+    font-size: 25px;
+    color: #333;
+  }
+  .num{
+    font-size: 25px;
+
+  }
+  .t-ast{
+    background-color:  #aed6f1 ;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+  }
+
+  .l-ast{
+    background-color:  #f5cba7 ;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+  }
+    .t-o{
+    background-color:   #3cf98e  ;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+  }
+    .t-r{
+    background-color:   #f9e79f  ;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+    color: #000;
+  }
+  .t-30-r{
+    background-color:  #e19ff9  ;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+    color: #000;
+  }
+  .t-30-s{
+    background-color: #cbfff0;
+    padding: 25% 0%;
+    border-radius: 10px;
+    margin: 5px;
+    z-index: 10;
+    color: #000;
+  }
+  .icn a{
+    color: #000;
+    text-decoration: none;
+  }
+  .icn .fas{
+    font-size: 200px;
+    color: #0f5bec;
+    position: absolute;
+    opacity: 0.07;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.icn .fab{
+  font-size: 200px;
+  color: #0f5bec;
+  position: absolute;
+  opacity: 0.07;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.icn p{
+  font-size: 50px;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+}
+.fa-trash-alt{
+  color: red;
+}
+
+
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table, tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.bg-clr{
+  background-color: #d0cfcf;
+}
